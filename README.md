@@ -36,7 +36,8 @@ print(positive_feedback)
 
 <H3>Output:</H3>
 
-![](Output.PNG)
+![image](https://github.com/harish-ragavendra-25/Project-Based-Experiment-AAI/assets/114852180/54ebfee7-e1df-4fbe-aebd-82d75898206b)
+
 
 <H3>Inference:</H3>
 Thus sentiment analysis using Facebook data is done and filtering the data that has only positive feedback for the code is executed successfully.
